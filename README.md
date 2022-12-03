@@ -2,6 +2,9 @@
 
 In this tutorial, we explain how to generate phase portraits and state-space trajectories of dynamical systems in MATLAB. A detailed post explaining these codes is given here: https://aleksandarhaber.com/phase-portraits-and-state-space-trajectories-of-dynamical-systems-in-matlab/
 
+The YouTube video tutorial explaining the codes is given here
+https://www.youtube.com/watch?v=OnY-C-rjXUM
+
 Included files:
 
 - "dynamics.m" - defines the system dynamics (state-space model, see the equation below for example)
