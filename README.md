@@ -6,8 +6,8 @@ For example, consider the following dynamical system:
 
 $$
 \begin{align}
-\dot{x}_{1}=-x_{1}-3x_{2} \\
-\dot{x}_{2}= 3x_{1} -x_{2}
+\dot{x}_{1} =-x_{1}-3x_{2} \\
+\dot{x}_{2} = 3x_{1} -x_{2}
 \label{stateSpaceModel}
 \end{align}
 $$
