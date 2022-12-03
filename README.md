@@ -2,12 +2,17 @@
 
 In this tutorial, we explain how to generate phase portraits and state-space trajectories of dynamical systems in MATLAB. For example, consider the system 
 
+For example, consider the following dynamical system: 
+
 $$
-\begin{equation}
-x=x
-\end{equation}
+\begin{align}
+\dot{\mathbf{x}}=\begin{bmatrix}-x_{1}-3x_{2} \\ 3x_{1} -x_{2}
+\end{bmatrix}
+\label{stateSpaceModel}
+\end{align}
 $$
 
+In this tutorial, you will learn how to generate a phase portrait of this system. The phase portrait is shown in the figure below.
 
 
 ![My Image](phase1.png)
