@@ -4,6 +4,9 @@ In this tutorial, we explain how to generate phase portraits and state-space tra
 
 Included files:
 
+- "dynamics.m" - defines the system dynamics (state-space model, see the equation below for example)
+- "phase_portrait.m" - file used to plot the phase portrait, this file calls the function "dynamics.m"
+- "main_file.m" - this is the main file, you should start from this file. This file calls the function "phase_portrait.m" and it provides a handle to the function "dynamics.m" to the file "phase_portrait.m". This file also simulates and plots a trajectory defined for a specified initial condition.
 
 
 For example, consider the following dynamical system: 
