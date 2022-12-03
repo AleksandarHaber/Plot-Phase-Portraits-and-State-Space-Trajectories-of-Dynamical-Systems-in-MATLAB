@@ -3,4 +3,4 @@ In this tutorial, we explain how to generate phase portraits and state-space tra
 
 
 
-![My Image](plots.png)
+![My Image](phase1.png)
